@@ -1,0 +1,8 @@
+{
+  "name": "catalogo_en_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jjns/catalogo_en_backend.git",
+  "author": "jjns <jjns.januario@gmail.com>",
+  "license": "MIT"
+}
